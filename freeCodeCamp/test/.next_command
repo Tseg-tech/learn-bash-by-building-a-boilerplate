@@ -285,3 +285,5 @@ cd icons
 ls --color=auto
 cd ../../..
 mv CodeRoad.svg client/assets/icons
+ls --color=auto
+mv freeCodeCamp.svg client/assets/icons
