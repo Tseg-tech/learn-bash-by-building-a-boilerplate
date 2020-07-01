@@ -311,3 +311,4 @@ cd ..
 ls --color=auto
 rm --help
 rm -r fonts
+ls --color=auto
