@@ -269,3 +269,4 @@ find -name footer.
 find -name footer.jpg
 find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
+find
