@@ -89,3 +89,5 @@ __vsc_prompt_cmd_original
 CLEAR
 clear
 ls --color=auto
+cd src
+__vsc_prompt_cmd_original
