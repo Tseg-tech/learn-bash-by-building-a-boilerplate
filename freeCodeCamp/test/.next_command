@@ -106,3 +106,4 @@ cd website
 ls --color=auto
 cd ..
 ls --color=auto
+cd website
