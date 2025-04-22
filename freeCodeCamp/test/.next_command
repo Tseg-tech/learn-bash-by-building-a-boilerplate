@@ -129,3 +129,6 @@ touch roboto.font
 touch lato.font
 touch menlo.font
 ls --color=auto
+touch codeAlly.svg
+touch codeAlly.svg
+touch CodeAlly.svg
