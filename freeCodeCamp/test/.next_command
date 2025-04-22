@@ -96,3 +96,5 @@ ls --color=auto
 more index.js
 d ..
 cd ..
+cd node_modules
+cd ..
