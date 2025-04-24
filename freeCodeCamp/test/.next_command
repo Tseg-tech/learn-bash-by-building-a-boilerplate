@@ -236,3 +236,4 @@ rmdir assetes
 cd assets
 mk dir
 mkdir images
+cd images
