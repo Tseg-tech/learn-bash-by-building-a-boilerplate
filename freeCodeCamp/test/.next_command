@@ -231,3 +231,6 @@ rm assetes
 ls --color=auto
 del assetes
 mkdir assets
+delete assetes
+rmdir assetes
+cd assets
