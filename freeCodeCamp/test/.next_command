@@ -300,3 +300,13 @@ touch client/assets/fonts/lato-light.ttf
 find client/assets/fonts
 find client/assets/fonts
 find
+cd client/fonts
+ls --color=auto
+cd ..
+lls
+ls --color=auto
+mv fonts ..
+ls --color=auto
+cd ..
+ls --color=auto
+rm --help
