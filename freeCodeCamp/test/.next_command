@@ -225,3 +225,9 @@ find
 mv fonts client
 ls --color=auto
 cd client
+ls --color=auto
+mkdir assetes
+rm assetes
+ls --color=auto
+del assetes
+mkdir assets
