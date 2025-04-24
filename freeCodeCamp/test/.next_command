@@ -275,3 +275,4 @@ rm images/background.jpg
 rmdir imaes
 rmdir images
 ls --color=auto
+mkdir client/assets/icons
