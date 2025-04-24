@@ -325,3 +325,8 @@ echo I made this boilerplate >> README.md
 more
 more --help
 more README.md
+echo Imade this boilerplate > README.md
+echo I made this boilerplate > README.md
+echo I made this boilerplate >> README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
