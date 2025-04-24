@@ -310,3 +310,4 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm --help
+rm -r fonts
