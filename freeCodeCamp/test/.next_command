@@ -234,3 +234,5 @@ mkdir assets
 delete assetes
 rmdir assetes
 cd assets
+mk dir
+mkdir images
