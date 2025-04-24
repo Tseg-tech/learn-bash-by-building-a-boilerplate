@@ -213,3 +213,8 @@ mv index.js client/src
 mv styles.css client/src
 find
 find client
+find -help
+help
+find -H
+find -help
+find --help
